@@ -1,0 +1,19 @@
+{
+  "name": "rocketact-plugin-bundle-with-banner",
+  "version": "0.0.2",
+  "description": "Rockectact plugin for rocketact-plugin-bundle-with-banner",
+  "keywords": [
+    "rocketact"
+  ],
+  "main": "index.js",
+  "author": "beanlee <irobot039@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.44.0"
+  },
+  "homepage": "https://rocketact.js.org/",
+  "dependencies": {
+    "dayjs": "^1.8.31",
+    "fs-extra": "^9.0.1"
+  }
+}
